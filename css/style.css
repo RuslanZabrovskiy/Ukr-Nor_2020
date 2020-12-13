@@ -298,7 +298,7 @@ label,
 }
 
 .summary__details:nth-child(2) {
-    border: 3px solid yellow;
+    border: 3px solid gold;
 }
 
 .summary__details:nth-child(3) {
@@ -331,7 +331,7 @@ summary {
 }
 
 .summary__summary2:after {
-    background: yellow;
+    background: gold;
     border-radius: 50%;
     content: " ";
     float: left;
@@ -478,7 +478,7 @@ summary {
 }
 
 .column__items-title2 {
-    color: yellow;
+    color: gold;
 }
 
 .column__items-title3 {
@@ -527,8 +527,8 @@ summary {
 }
 
 .vertical__item_2 {
-    background-color: yellow;
-    border: 2px solid yellow;
+    background-color: gold;
+    border: 2px solid gold;
 }
 
 .vertical__item_3 {
@@ -638,7 +638,7 @@ button[name=vertical__item-button]:active {
 }
 
 .footer-input_2{
-    border: 2px solid yellow;
+    border: 2px solid gold;
 }
 
 .footer-input:focus::placeholder {
@@ -682,7 +682,7 @@ button[name=vertical__item-button]:active {
 
 .footer-button:hover {
     color:black;
-    background-color:yellow;
+    background-color: gold;
 }
 
 .footer-button:active {

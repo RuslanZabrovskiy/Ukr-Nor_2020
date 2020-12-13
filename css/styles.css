@@ -85,3 +85,14 @@ li {
 .list_p {
 	padding-left: 15px;
 }
+
+@media (min-width: 320px) and (max-width: 480px) {
+	
+	#game {
+		width: 300px;
+	}
+
+	#info_block {
+		width: 300px;
+	}
+}

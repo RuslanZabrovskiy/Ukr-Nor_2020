@@ -1275,7 +1275,7 @@ button[name=vertical__item-button]:active {
     }
 
     .contact__data_items {
-        margin: 0 0 20px 0;
+        margin: 0;
         display: flex;
         justify-content: space-around;
         align-items: center;
@@ -1570,8 +1570,12 @@ button[name=vertical__item-button]:active {
         height: 30px;
     }
 
+    .contact {
+        padding: 15px;
+    }
+
     .contact__data_items {
-        margin: 0 0 20px 0;
+        margin: 0;
         display: flex;
         flex-direction: column;
         align-items: center;
